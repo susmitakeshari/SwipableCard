@@ -3,7 +3,8 @@ This repository contains Swipeable Card ( LiveData , View Model and MVVM with re
 
 ## About This Project
 
-In this project we will build a swipable card app using android architecture components <B>( LiveData and ViewModel )</B> usning <B>MVVM</B> pattern by the help of [Retrofit](https://square.github.io/retrofit/) for consuming rest api data from [News Api](https://gist.githubusercontent.com/anishbajpai014/d482191cb4fff429333c5ec64b38c197/raw/b11f56c3177a9ddc6649288c80a004e7df41e3b9/HiringTask.json)
+In this project we will build a swipable card app using android architecture components <B>( LiveData and ViewModel )</B> usning <B>MVVM</B> pattern by the help of [Retrofit](https://square.github.io/retrofit/) for consuming rest api data from 
+[Api](https://gist.githubusercontent.com/anishbajpai014/d482191cb4fff429333c5ec64b38c197/raw/b11f56c3177a9ddc6649288c80a004e7df41e3b9/HiringTask.json)
 
 ## App Features
 * Show Swipeable Cardlist
